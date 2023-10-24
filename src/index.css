@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Oleo+Script&family=Poppins:wght@700&display=swap');
+body {
+  margin: 0;
+  font-family: 'Fredoka One','Oleo Script', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(5, 50, 82, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), linear-gradient(180deg, #063773 0%, #012445 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

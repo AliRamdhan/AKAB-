@@ -1,0 +1,206 @@
+[
+ {
+  "NAMA": "Alfarida Royan Siandira",
+  "ANGKATAN": "1",
+  "JURUSAN": "Agrobisnis",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Alif Dzikri Muzzaki",
+  "ANGKATAN": "1",
+  "JURUSAN": "Agroteknologi",
+  "PERGURUANTINGGI": "Universitas Brawijaya "
+ },
+ {
+  "NAMA": "Ahmad Farhan Mulya Adiguna",
+  "ANGKATAN": "2",
+  "JURUSAN": "Agroteknologi",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Naufal Alif Raharjo",
+  "ANGKATAN": "2",
+  "JURUSAN": "Akuakultur",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Syafiq Anbiya",
+  "ANGKATAN": "2",
+  "JURUSAN": "Ilmu Dan Industri Peternakan",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Widan Fakhrur Rozy",
+  "ANGKATAN": "2",
+  "JURUSAN": "Ilmu Lingkungan",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Naelis Sazqia Kamalin",
+  "ANGKATAN": "2",
+  "JURUSAN": "Manajemen Sumber Daya Lahan",
+  "PERGURUANTINGGI": "Institut Pertanian Bogor"
+ },
+ {
+  "NAMA": "Syifa Fauziyah",
+  "ANGKATAN": "2",
+  "JURUSAN": "Manajemen Sumber Daya Perikanan",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Rijaluddien Muh Ibrahim",
+  "ANGKATAN": "2",
+  "JURUSAN": "Manajemen Sumber Perairan",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Muhammad Zakaria",
+  "ANGKATAN": "2",
+  "JURUSAN": "Pengelolaan Hutan",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Anggi Febriyanti",
+  "ANGKATAN": "2",
+  "JURUSAN": "Pertanian",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Umar Al Aziz",
+  "ANGKATAN": "2",
+  "JURUSAN": "Pertanian",
+  "PERGURUANTINGGI": "Universitas Tidar"
+ },
+ {
+  "NAMA": "Sifa Ussyarif",
+  "ANGKATAN": "2",
+  "JURUSAN": "Peternakan",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Maulana Miftah Mubarak",
+  "ANGKATAN": "2",
+  "JURUSAN": "Peternakan",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Arrya Nawaf Hanifa",
+  "ANGKATAN": "2",
+  "JURUSAN": "Sekolah Teknologi Ilmu Hayati - Prog. Rekayasa",
+  "PERGURUANTINGGI": "Institut Teknologi Bandung"
+ },
+ {
+  "NAMA": "Fisqiyatul Khayati",
+  "ANGKATAN": "2",
+  "JURUSAN": "Teknologi Hasil Perikanan",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Ain Delfa Alia Shalihah",
+  "ANGKATAN": "2",
+  "JURUSAN": "Teknologi Hasil Pertanian",
+  "PERGURUANTINGGI": "Universitas Lampung"
+ },
+ {
+  "NAMA": "Farhan Hikmatullah Daulay",
+  "ANGKATAN": "2",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Alifya Bussaina Karim",
+  "ANGKATAN": "2",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Muhammad Darisman",
+  "ANGKATAN": "2",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Muna Verentsya Salsabila",
+  "ANGKATAN": "2",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Moch. Irfan Khakim",
+  "ANGKATAN": "3",
+  "JURUSAN": "Agroteknologi",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Annisa Syifaulhaq",
+  "ANGKATAN": "3",
+  "JURUSAN": "Agroteknologi",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Muhammad Fardan Mumtaz",
+  "ANGKATAN": "3",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Muhammad Mahdi",
+  "ANGKATAN": "4",
+  "JURUSAN": "Agribisnis",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Nadin Aulia Baskoro",
+  "ANGKATAN": "4",
+  "JURUSAN": "Agribisnis",
+  "PERGURUANTINGGI": "Institut Pertanian Bogor"
+ },
+ {
+  "NAMA": "Amalia Berliana Sekar Taji",
+  "ANGKATAN": "4",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Mahmud  Farhad Aryadi",
+  "ANGKATAN": "4",
+  "JURUSAN": "Oceanografi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Alfina Nurul Ayni",
+  "ANGKATAN": "4",
+  "JURUSAN": "Sekolah Ilmu Dan Teknologi Hayati",
+  "PERGURUANTINGGI": "Institut Teknologi Bandung"
+ },
+ {
+  "NAMA": "Bintan  Alifia Ulya Dana",
+  "ANGKATAN": "4",
+  "JURUSAN": "Teknologi Pangan",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Nuraini Islami Kamiliiya",
+  "ANGKATAN": "5",
+  "JURUSAN": "Ilmu Dan Industri Peternakan ",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Miftahul Alam Wijaya",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kehutanan ",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Mutia Linggarjati",
+  "ANGKATAN": "5",
+  "JURUSAN": "Oceanografi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Galuh Indah Ramadhani",
+  "ANGKATAN": "5",
+  "JURUSAN": "Teknologi Pangan ",
+  "PERGURUANTINGGI": "Universitas Padjajaran "
+ }
+]

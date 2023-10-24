@@ -1,0 +1,476 @@
+[
+ {
+  "NAMA": "Ahmad Fatihul Ulum",
+  "ANGKATAN": "1",
+  "JURUSAN": "Farmasi ",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Muhammad Haekal A.",
+  "ANGKATAN": "1",
+  "JURUSAN": "Kedokteran ",
+  "PERGURUANTINGGI": "Universitas Islam Bandung"
+ },
+ {
+  "NAMA": "Ahsana Syadiatil Arifah",
+  "ANGKATAN": "1",
+  "JURUSAN": "Kesehatan Masyarakat",
+  "PERGURUANTINGGI": "Universitas Negeri Semarang"
+ },
+ {
+  "NAMA": "Wabhisatul Hasna",
+  "ANGKATAN": "1",
+  "JURUSAN": "Kesehatan Masyarakat",
+  "PERGURUANTINGGI": "Univeristas Muhamadiyah Semarang"
+ },
+ {
+  "NAMA": "Rofingatun Nur Lailia",
+  "ANGKATAN": "1",
+  "JURUSAN": "Kesehatan Masyarakat",
+  "PERGURUANTINGGI": "Univeristas Muhamadiyah Semarang"
+ },
+ {
+  "NAMA": "Atikah Rahma Maulida",
+  "ANGKATAN": "1",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta"
+ },
+ {
+  "NAMA": "Eka Nidatul Khasanah",
+  "ANGKATAN": "1",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Airlangga"
+ },
+ {
+  "NAMA": "Ryan Nailufar Febriantama",
+  "ANGKATAN": "1",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Nailus Syifaul Mufidah",
+  "ANGKATAN": "2",
+  "JURUSAN": "Ilmu Gizi",
+  "PERGURUANTINGGI": "Institut Pertanian Bogor"
+ },
+ {
+  "NAMA": "Ulya Munfarida",
+  "ANGKATAN": "2",
+  "JURUSAN": "Kedokteran Hewan",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Almaas Dhistia Nuhaiiazizah",
+  "ANGKATAN": "2",
+  "JURUSAN": "Kedokteran Hewan",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "M. Lutfi Ramadhan",
+  "ANGKATAN": "2",
+  "JURUSAN": "Kesehatan Dan Keselamatan Kerja",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Diana Tri Hastuti",
+  "ANGKATAN": "2",
+  "JURUSAN": "Kesehatan Masyarakat",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Zalfa Nadifa",
+  "ANGKATAN": "2",
+  "JURUSAN": "Kesehatan Masyarakat",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Septime Kamal Cahyaningtias",
+  "ANGKATAN": "2",
+  "JURUSAN": "Pendidikan Dokter",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Fadhlissyafiq Alirahman Bahtiar",
+  "ANGKATAN": "2",
+  "JURUSAN": "Pendidikan Dokter Gigi",
+  "PERGURUANTINGGI": "Universitas Jember"
+ },
+ {
+  "NAMA": "Khofifah Hanifa Nida",
+  "ANGKATAN": "2",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Ridha Fatihah",
+  "ANGKATAN": "2",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Walisongo Semarang"
+ },
+ {
+  "NAMA": "Amirah Maulani",
+  "ANGKATAN": "2",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Syarif Hidayatullah Jakarta"
+ },
+ {
+  "NAMA": "Faizul Haq Al-Arif",
+  "ANGKATAN": "2",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Maulana Malik Ibrahim Malang"
+ },
+ {
+  "NAMA": "Sanya Pramudita",
+  "ANGKATAN": "3",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Unik Fadila Azzahra",
+  "ANGKATAN": "3",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Hilya Athiya Maula",
+  "ANGKATAN": "3",
+  "JURUSAN": "Gizi",
+  "PERGURUANTINGGI": "Universitas Muhamadiyah Semarang"
+ },
+ {
+  "NAMA": "Syifa Shofwana",
+  "ANGKATAN": "3",
+  "JURUSAN": "Gizi",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Binawan Kerti Nurwana",
+  "ANGKATAN": "3",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Noor Az Zhahra",
+  "ANGKATAN": "3",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Pembangunan Negeri  Veteran Jakarta"
+ },
+ {
+  "NAMA": "Basmalia Silvi Tauhida",
+  "ANGKATAN": "3",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Abulyatama"
+ },
+ {
+  "NAMA": "Taqiya Faza Rozana",
+  "ANGKATAN": "3",
+  "JURUSAN": "Kedokteran Gigi",
+  "PERGURUANTINGGI": "Universitas Jember"
+ },
+ {
+  "NAMA": "Dian Rizky Nugraheni",
+  "ANGKATAN": "3",
+  "JURUSAN": "Kedokteran Gigi",
+  "PERGURUANTINGGI": "Universitas Jember"
+ },
+ {
+  "NAMA": "Cut Nana",
+  "ANGKATAN": "3",
+  "JURUSAN": "Pendidikan Dokter",
+  "PERGURUANTINGGI": "Universitas  Malikussaleh"
+ },
+ {
+  "NAMA": "Rafli Dhafa Aditya",
+  "ANGKATAN": "3",
+  "JURUSAN": "Pendidikan Dokter ",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Malik Ibrahim Malang"
+ },
+ {
+  "NAMA": "Mahda Naifa Salsabila",
+  "ANGKATAN": "3",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Negeri Semarang"
+ },
+ {
+  "NAMA": "Maulaya Royyana",
+  "ANGKATAN": "4",
+  "JURUSAN": "Administrasi Rumah Sakit",
+  "PERGURUANTINGGI": "Universitas Indonesia"
+ },
+ {
+  "NAMA": "Firda Rizka Afaroh",
+  "ANGKATAN": "4",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Lincoln University College"
+ },
+ {
+  "NAMA": "Hasna Syifa Kamila",
+  "ANGKATAN": "4",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Dewi Fathimatuzzahro",
+  "ANGKATAN": "4",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Nadia Ahnaf Fatimah",
+  "ANGKATAN": "4",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Muhammadiyah Purwokerto"
+ },
+ {
+  "NAMA": "Rizka Noviana Tuzada",
+  "ANGKATAN": "4",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Nala Karima",
+  "ANGKATAN": "4",
+  "JURUSAN": "Gizi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Baroroh Sofiati",
+  "ANGKATAN": "4",
+  "JURUSAN": "Gizi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Walisongo Semarang"
+ },
+ {
+  "NAMA": "Ukke Yuristian",
+  "ANGKATAN": "4",
+  "JURUSAN": "Keperawatan ",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Alifa  Az Zahra Madaniyah",
+  "ANGKATAN": "4",
+  "JURUSAN": "Keperawatan ",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Jundi Laudza Abdullah",
+  "ANGKATAN": "4",
+  "JURUSAN": "Keperawatan ",
+  "PERGURUANTINGGI": "Poltekkes Kemenkes Negeri Semarang"
+ },
+ {
+  "NAMA": "M. Michael Maulid Hanzky",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Annisa Hanindira Valeria",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Noor Ardiansyah Khadri Magista",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Aufa Zidan  Hibatulloh",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Muhammadiyah Yogyakarta"
+ },
+ {
+  "NAMA": "Adelia Nabilah Zahra",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Muhammadiyah Yogyakarta"
+ },
+ {
+  "NAMA": "Kamilah Khubatillah",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Islam Sultan Agung Semarang"
+ },
+ {
+  "NAMA": "Sarah Syatiri",
+  "ANGKATAN": "4",
+  "JURUSAN": "Keperawatan  Anestesiologi",
+  "PERGURUANTINGGI": "Poltekkes Kemenkes Negeri Jogjakarta"
+ },
+ {
+  "NAMA": "Nadia Nisrina",
+  "ANGKATAN": "4",
+  "JURUSAN": "Kesehatan Masyarakat",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Atsilla Syifa Puti Arini",
+  "ANGKATAN": "4",
+  "JURUSAN": "Manajemen Informasi Kesehatan",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Atsilla Syifa Puti Arini",
+  "ANGKATAN": "4",
+  "JURUSAN": "Ortotik Prostetik",
+  "PERGURUANTINGGI": "Poltekkes Kemenkes Negeri Surakarta"
+ },
+ {
+  "NAMA": "Averoes Giblatar Makta",
+  "ANGKATAN": "4",
+  "JURUSAN": "Pendidikan Dokter Hewan",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Conif Miftahul Baroroh",
+  "ANGKATAN": "4",
+  "JURUSAN": "Pendidikan Kedokteran",
+  "PERGURUANTINGGI": "Universitas Jember"
+ },
+ {
+  "NAMA": "Assyfa Salsa Yulpani",
+  "ANGKATAN": "4",
+  "JURUSAN": "Pendidikan Kedokteran",
+  "PERGURUANTINGGI": "Universitas Lampung"
+ },
+ {
+  "NAMA": "Shaffa Ramadhina Azzahra",
+  "ANGKATAN": "4",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Indonesia"
+ },
+ {
+  "NAMA": "Salma Salsabila Firdausa",
+  "ANGKATAN": "4",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Ratnina Zainatin Qibtya",
+  "ANGKATAN": "4",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Dwi Tantri Oktaviani",
+  "ANGKATAN": "4",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Sunan Ampel Surabaya"
+ },
+ {
+  "NAMA": "Izar Rifqi",
+  "ANGKATAN": "4",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta"
+ },
+ {
+  "NAMA": "Fatimah A`Qilah Az Zahro",
+  "ANGKATAN": "5",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Univesitas Sebelas Maret "
+ },
+ {
+  "NAMA": "Annisa Tiara Luthfiyah",
+  "ANGKATAN": "5",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Muhammad Naufal ",
+  "ANGKATAN": "5",
+  "JURUSAN": "Farmasi",
+  "PERGURUANTINGGI": "Universitas Negeri Surakarta"
+ },
+ {
+  "NAMA": "Khindi Haikal",
+  "ANGKATAN": "5",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Indonesia "
+ },
+ {
+  "NAMA": "Ajeng Lintang Kinasih Suroso",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Rusydah Shafy Kultsuum",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Univesitas Sebelas Maret "
+ },
+ {
+  "NAMA": "Nida Nabila Hana",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Univesitas Sebelas Maret "
+ },
+ {
+  "NAMA": "Amalia Izzatika",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Univesitas Sebelas Maret "
+ },
+ {
+  "NAMA": "Verousson Ahmad",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Fildza Kamila Almasykur",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Kaifa Zahra Maeronika",
+  "ANGKATAN": "5",
+  "JURUSAN": "Kedokteran",
+  "PERGURUANTINGGI": "Universitas Pembangunan Nasional Veteran "
+ },
+ {
+  "NAMA": "Fendi Setiawan",
+  "ANGKATAN": "5",
+  "JURUSAN": "Keperawatan ",
+  "PERGURUANTINGGI": "Universitas Muhammadiyah Gombong"
+ },
+ {
+  "NAMA": "M. Iyad Madani",
+  "ANGKATAN": "5",
+  "JURUSAN": "Pendidikan Dokter",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret "
+ },
+ {
+  "NAMA": "Hasna` Fathin Nafisah",
+  "ANGKATAN": "5",
+  "JURUSAN": "Pendidikan Dokter Gigi",
+  "PERGURUANTINGGI": "Universitas Negeri Jember"
+ },
+ {
+  "NAMA": "Rifki Nur Azizah",
+  "ANGKATAN": "5",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Irdina Izzah Nabila",
+  "ANGKATAN": "5",
+  "JURUSAN": "Psikologi",
+  "PERGURUANTINGGI": "Universitas Airlangga"
+ },
+ {
+  "NAMA": "Hasna Yasmin",
+  "ANGKATAN": "5",
+  "JURUSAN": "Sekolah Farmasi",
+  "PERGURUANTINGGI": "Institut Teknologi Bandung"
+ },
+ {
+  "NAMA": "Callista Naura Zahra",
+  "ANGKATAN": "5",
+  "JURUSAN": "Terapi Okupasi",
+  "PERGURUANTINGGI": "Universitas Indonesia "
+ }
+]

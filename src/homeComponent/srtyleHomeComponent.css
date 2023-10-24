@@ -1,0 +1,3879 @@
+
+.appHeader {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(146, 202, 255, 0.05);
+  position: fixed;
+  z-index: 888;
+}
+.subHeader {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.moveScreen {
+  text-decoration: none;
+  color: #ffffff;
+}
+.home {
+  font-size: 35px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.home img {
+  width: 70px;
+  height: 70px;
+}
+.navigation {
+  width: 45%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  font-size: 24px;
+}
+.humberger {
+  display: none;
+  flex-direction: column;
+  gap: 3px;
+}
+.humberger span {
+  width: 25px;
+  height: 3.5px;
+  background-color: #000000;
+  cursor: pointer;
+}
+/* landing page */
+.appLanding{
+  width: 100%;
+  height: 100vh;
+}
+.subApp{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 60px 0 0 0;
+}
+.landing{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0 0 0;
+}
+.landing .bubble{
+  position: absolute;
+  z-index: -888;
+  left: -150px;
+  top: -50px;
+}
+.landing .bubble img{
+  width:  900px;
+  height: 800px;
+}
+.subLanding{
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.landing2{
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 72px;
+  color: #ffffff;
+}
+.landing2 div:nth-child(2){
+  line-height: 60px;
+  font-size: 64px;
+  color: #ffffff;
+  text-align: center;
+}
+.logoLanding{
+  background-color: #ffffff11;
+  border-radius: 50%;
+  padding: 20px;
+}
+.logoLanding img{
+  width: 220px;
+  height: 220px;
+}
+.present{
+  width: 87%;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 100px;
+  align-items: center;
+}
+.present div:nth-child(1){
+  font-size: 22px;
+  color: #ffffff;
+  font-family: 'fredoka one';
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+.present img{
+  width: 30px;
+  height: 30px;
+}
+.timeLanding{
+  width: 90%;
+  display: flex;
+  justify-content:flex-end;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+/* Journey  */
+.appJourneyIntro {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.subAppJourneyIntro{
+  padding: 20px;
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subJourney {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+.subJourney div:nth-child(1) {
+  font-size: 48px;
+  letter-spacing: 1px;
+  font-weight: 550;
+}
+.subJourney div:nth-child(2),
+.subJourney div:nth-child(3) {
+  font-size: 36px;
+  font-weight: 500;
+}
+.listJourney {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.listSubJourney {
+  width: 100%;
+}
+.myswiper{
+  width: 900px;
+  height: 500px;
+}
+.swiper{
+  width: 800px;
+  height: 600px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.journey {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.journey div:nth-child(2) {
+  font-size: 30px;
+  color: #ffffff;
+}
+.journey:hover div:nth-child(2) {
+  transform: translateY(10px);
+}
+.journey img {
+  width: 100%;
+  height: 420px;
+}
+.seeMoreJourney {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subSeeMore {
+  width: 65%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.subSeeMore:hover .seeMore {
+  background-color: rgba(241, 244, 254, 0.8);
+}
+.seeMore {
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: none;
+  color: #000000;
+}
+.seeMore div{
+  width: 100%;
+}
+.subSeeMore:hover .subSeeMore {
+  transform: scale(1.1);
+}
+/* TIMELINE */
+.turtle{
+  position: absolute;
+  z-index: -888;
+  left: 0;
+  top: 165%;
+}
+.turtle img{
+  width: 400px;
+  height: 400px;
+}
+.ubur{
+  position: absolute;
+  z-index: -888;
+  right: 0;
+  top: 195%;
+}
+.ubur img{
+  width: 500px;
+  height: 600px;
+}
+/* TIMELINE */
+.appTimeline {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.appTimeline .tittleTimeline {
+  width: 100%;
+  text-align: center;
+  font-size: 56px;
+  font-family: "fredoka one";
+  color: #ffffff;
+}
+.listTimelines {
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #404d715e;
+  padding: 30px;
+  border-radius: 30px;
+
+}
+.listTime {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.timeline {
+  width: 180px;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.timeline.active {
+  background-color: #cfcfcf5d;
+}
+.timeline div {
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+}
+.line {
+  width: 80%;
+  background-color: rgb(255, 255, 255);
+  height: 2px;
+  position: absolute;
+}
+.circle {
+  width: 15px;
+  height: 15px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+}
+.contentTimeline {  
+  padding-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.explaineTimeline {
+  width: 1000px;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #6679ac5e;
+  border-radius: 30px;
+  display: none;
+  border: 1px solid #ffffff;
+}
+.explaineTimeline.active {
+  display: flex;
+}
+.contentExpTimeline {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  color: #ffffff;
+  font-family: "Times New Roman";
+  font-size: 20px;
+  word-spacing: 2px;
+  text-align: center;
+}
+.icon {
+  width: 300px;
+  height: 200px;
+}
+.content1 {
+  font-size: 38px;
+  font-family: "fredoka one";
+}
+.content2{
+  font-size: 20px;
+}
+
+/* ASKING */
+.ikans{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  z-index: 1;
+  top: 300%;
+}
+.ikans div:nth-child(2){
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.ikan1 img, .ikan2 img{
+  width: 300px;
+  height: 400px;
+}
+
+.appAsking {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  background-image: url('./asking/image/under.png');
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.appAsking .tittleAsk {
+  width: 80%;
+  text-align: center;
+  font-size: 42px;
+  font-family: "fredoka one";
+  color: #ffffff;
+}
+.listAsk {
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
+  grid-gap: 1rem;
+  z-index: 2;
+}
+.ask {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: 'fredoka one';
+}
+.ask .question {
+  background-color: rgba(222, 229, 255, 0.8);
+  width: 100%;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.ask:hover .question {
+  background-color: rgba(241, 244, 254, 0.8);
+}
+.ask .answer {
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  transition: 0.6s;
+}
+.ask.active .answer {
+  width: 100%;
+  padding: 8px;
+  height: 50px;
+  margin-top: 10px;
+  background-color: rgba(222, 229, 255, 0.8);
+  border-radius: 10px;
+}
+/* FOOTER */
+.appFooter {
+  width: 100%;
+  height: 18vh;
+  padding: 10px 0 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 253, 255, 0.12);  
+}
+.appFooter .subFooter {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 0;
+}
+.subFooter .event {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+}
+.director {
+  width: 25%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.director img {
+  width: 55px;
+  height: 55px;
+}
+.director div:nth-child(2) {
+  width: 220px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+
+}
+.director div:nth-child(3) {
+  display: flex;
+  align-items: center;
+  border-left: 4px solid rgb(255, 255, 255);
+  height: 30px;
+  font-weight: 500;
+  font-size: 24px;
+  padding-left: 8px;
+}
+.sosmed {
+  color: #ffffff;
+  font-size: 45px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.sosmed a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 500;
+}
+.credit {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 4px;
+  color: #ffffff;
+  font-size: 18px;
+}
+.navigationBar{
+  display: none;
+}
+
+@media screen and (max-width:320px){
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 60vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 80px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left:-100px;
+    top: -10px;
+  }
+  .landing .bubble img{
+    width:  420px;
+    height: 800px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+  .landing2{
+    width: 100%;
+    font-size: 38px;
+  }
+  .landing2 div:nth-child(2){   
+    line-height: 40px;
+    font-size: 32px;
+  }
+  .logoLanding img{
+    width: 170px;
+    height: 170px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 40px;
+  }
+  .present div:nth-child(1){
+    font-size: 14px;
+  }
+  .present img{
+    width: 20px;
+    height: 20px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 14px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:400px;
+  }
+  .swiper{
+    width: 300px;
+    height: 310px;
+  }
+  
+  .journey div:nth-child(2) {
+    font-size: 14px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 250px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 32px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 100%;
+  }
+  .timeline {
+    width: 35px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 9px;
+  }
+  .line {
+    width: 90%;
+  }
+  .circle {
+    width: 8px;
+    height: 8px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width: 300px;
+    height: 300px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 200px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 100px;
+    height: 100px;
+  }
+  .content1 {
+    font-size: 25px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    width: 90%;
+    font-size: 13px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 32px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 15.5vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 56%;
+  }
+  .director img {
+    width: 35px;
+    height: 35px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 14px;
+  }
+  .director div:nth-child(3) {
+    border-left: 2px solid rgb(255, 255, 255);
+    font-size: 14px;
+    height: 25px;
+    padding-left: 4px;
+  }
+  .sosmed {
+    font-size: 25px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 14px;
+  }
+  .credit {
+    font-size: 12px;
+  }
+
+  .turtle{
+    left: 0;
+    top: 125%;
+  }
+  .turtle img{
+    width: 200px;
+    height: 200px;
+  }
+  .ubur{
+    right: 0;
+    top: 220%;
+  }
+  .ubur img{
+    width: 250px;
+    height: 300px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 320%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 300px;
+    height: 400px;
+  }
+
+}
+@media screen and (min-width:320px) and (max-width:350px) {
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 70vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 20px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -130px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  450px;
+    height: 800px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  .landing2{
+    width: 100%;
+    font-size: 44px;
+  }
+  .landing2 div:nth-child(2){   
+    line-height: 40px;
+    font-size: 34px;
+  }
+  .logoLanding img{
+    width: 180px;
+    height: 180px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 40px;
+  }
+  .present div:nth-child(1){
+    font-size: 16px;
+  }
+  .present img{
+    width: 24px;
+    height: 24px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 16px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 300px;
+    height: 350px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 14px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 250px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 32px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 90%;
+  }
+  .timeline {
+    width: 35px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 10px;
+  }
+  .line {
+    width: 90%;
+  }
+  .circle {
+    width: 8px;
+    height: 8px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width: 300px;
+    height: 300px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 250px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 100px;
+    height: 120px;
+  }
+  .content1 {
+    font-size: 25px;
+    font-family: "fredoka one";
+    padding: 0;
+  }
+  .content2{
+    font-size: 13.5px;
+    width: 90%;
+    text-align:center;
+  }
+  .appAsking {
+    height: 70vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 32px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 15.5vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 56%;
+  }
+  .director img {
+    width: 35px;
+    height: 35px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 14px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 2px solid rgb(255, 255, 255);
+    font-size: 14px;
+    height: 25px;
+    padding-left: 4px;
+  }
+  .sosmed {
+    font-size: 25px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 14px;
+  }
+  .credit {
+    font-size: 12px;
+  }
+
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 135%;
+  }
+  .turtle img{
+    width: 200px;
+    height: 200px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 220%;
+  }
+  .ubur img{
+    width: 20 0px;
+    height: 300px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 320%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 300px;
+    height: 300px;
+  }
+
+}
+@media screen and (min-width:350px) and (max-width:375px) {
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 70vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 40px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -130px;
+    top: -30px;
+  }
+  .landing .bubble img{
+    width:  450px;
+    height: 800px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 80px;
+  }
+  .landing2{
+    width: 100%;
+    font-size: 44px;
+  }
+  .landing2 div:nth-child(2){   
+    line-height: 40px;
+    font-size: 34px;
+  }
+  .logoLanding img{
+    width: 180px;
+    height: 180px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 80px;
+  }
+  .present div:nth-child(1){
+    font-size: 16px;
+  }
+  .present img{
+    width: 24px;
+    height: 24px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 16px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 320px;
+    height: 400px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 14px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 280px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 32px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    width: 38px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 10px;
+  }
+  .line {
+    width: 90%;
+  }
+  .circle {
+    width: 8px;
+    height: 8px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width: 330px;
+    height: 330px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 260px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 100px;
+    height: 150px;
+  }
+  .content1 {
+    width: 90%;
+    font-size: 26px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    width: 90%;
+    font-size: 14px;
+  }
+  .appAsking {
+    height: 70vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 32px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 15.5vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 54%;
+  }
+  .director img {
+    width: 35px;
+    height: 35px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 14px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 3px solid rgb(255, 255, 255);
+    font-size: 14px;
+    height: 25px;
+    padding-left: 6px;
+  }
+  .sosmed {
+    font-size: 25px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 14px;
+  }
+  .credit {
+    font-size: 12px;
+  }
+
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 135%;
+  }
+  .turtle img{
+    width: 200px;
+    height: 200px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 225%;
+  }
+  .ubur img{
+    width: 220px;
+    height: 300px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    top: 350%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 300px;
+    height: 300px;
+  }
+
+}
+@media screen and (min-width:375px) and (max-width:425px)   {
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -100px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  470px;
+    height: 880px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 50px;
+  }
+  .landing2{
+    width: 100%;
+    font-size: 48px;
+  }
+  .landing2 div:nth-child(2){   
+    font-size: 38px;
+    line-height: 40px;
+  }
+  .logoLanding img{
+    width: 200px;
+    height: 200px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 60px;
+  }
+  .present div:nth-child(1){
+    font-size: 16px;
+  }
+  .present img{
+    width: 24px;
+    height: 24px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 16px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 350px;
+    height: 400px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 14px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 300px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 32px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    max-width: 38px;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 11px;
+  }
+  .line {
+    width: 90%;
+  }
+  .circle {
+    max-width: 10px;
+    max-height: 10px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:350px;
+    height: 330px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 250px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 120px;
+    height: 150px;
+  }
+  .content1 {
+    width: 90%;
+    font-size: 26px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    width: 90%;
+    font-size: 14px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 32px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 15.5vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 51%;
+  }
+  .director img {
+    width: 35px;
+    height: 35px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 14px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 2px solid rgb(255, 255, 255);
+    font-size: 14px;
+    height: 25px;
+    padding-left: 6px;
+  }
+  .sosmed {
+    font-size: 25px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 14px;
+  }
+  .credit {
+    font-size: 12px;
+  }
+
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    top: 135%;
+  }
+  .turtle img{
+    width: 200px;
+    height: 200px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 230%;
+  }
+  .ubur img{
+    width: 220px;
+    height: 300px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 350%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 300px;
+    height: 300px;
+  }
+
+}
+@media screen and (min-width:425px) and (max-width:575px)  {
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -100px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  520px;
+    height: 850px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    gap: 30px;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  .landing2{
+    width: 90%;
+    font-size: 52px;
+  }
+  .landing2 div:nth-child(2){
+    line-height: 30px;
+    font-size: 38px;
+  }
+  .logoLanding img{
+    width: 220px;
+    height: 220px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 70px;
+  }
+  .present div:nth-child(1){
+    font-size: 14px;
+  }
+  .present img{
+    width: 20px;
+    height: 20px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 14px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 400px;
+    height: 450px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 14px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 350px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 32px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    max-width: 45px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 12px;
+  }
+  .line {
+    width: 90%;
+  }
+  .circle {
+    max-width: 10px;
+    max-height: 10px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:370px;
+    height: 330px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 250px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 120px;
+    height: 150px;
+  }
+  .content1 {
+    width: 90%;
+    font-size: 26px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    width: 90%;
+    font-size: 14px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 32px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 16vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 51%;
+  }
+  .director img {
+    width: 40px;
+    height: 40px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 16px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 3px solid rgb(255, 255, 255);
+    font-size: 16px;
+    height: 25px;
+  }
+  .sosmed {
+    font-size: 25px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 16px;
+  }
+  .credit {
+    font-size: 12px;
+  }
+
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 135%;
+  }
+  .turtle img{
+    width: 220px;
+    height: 220px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 230%;
+  }
+  .ubur img{
+    width: 250px;
+    height: 320px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 350%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 300px;
+    height: 300px;
+  }
+
+}
+@media screen and (min-width:575px) and (max-width:640px){
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -150px;
+    top: -30px;
+  }
+  .landing .bubble img{
+    width:  650px;
+    height: 800px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .landing2{
+    font-size: 48px;
+  }
+  .landing2 div:nth-child(2){   
+    font-size: 38px;
+    line-height: 40px;
+  }
+  .logoLanding img{
+    width: 160px;
+    height: 160px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 40px;
+  }
+  .present div:nth-child(1){
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  .present img{
+    width: 20px;
+    height: 20px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 15px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 38px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 28px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 550px;
+    height: 500px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 18px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 380px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 32px;
+  }
+  .listTimelines {
+    padding: 20px;
+    width: 90%;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    width: 75px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div:nth-child(1){
+    width: 50%;
+    display: flex;
+    justify-content: center;
+  }
+  .timeline div {
+    font-size: 14px;
+  }
+  .line {
+    width: 90%;
+  }
+  .circle {
+    max-width: 10px;
+    max-height: 10px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:480px;
+    height: 330px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 280px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 150px;
+    height: 180px;
+  }
+  .content1 {
+    font-size: 32px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    font-size: 16px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 38px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 16.5vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 41%;
+  }
+  .director img {
+    width: 45px;
+    height: 45px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 18px;
+  }
+  .director div:nth-child(3) {
+    border-left: 3px solid rgb(255, 255, 255);
+    font-size: 18px;
+    height: 25px;
+    padding-left: 6px;
+  }
+  .sosmed {
+    font-size: 30px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 18px;
+  }
+  .credit {
+    line-height: 14px;
+    font-size: 14px;
+  }
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 135%;
+  }
+  .turtle img{
+    width: 250px;
+    height: 250px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 250%;
+  }
+  .ubur img{
+    width: 320px;
+    height: 370px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 350%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 400px;
+    height: 400px;
+  }
+
+}
+@media screen and (min-width:640px) and (max-width:768px) {
+  .home {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation{
+    display: none;
+  }
+  .humberger{
+    display: flex;
+  }
+  .navigationBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:  #141d37;
+    font-size: 30px;
+    display: none;
+  }
+  .navigationBar.active{
+    display: flex;
+  }
+  .cancel{
+    margin-right: 30px;
+    width: 30px;
+  }
+  .cancel span{
+    width: 30px;
+    height: 4px;
+    background-color: #ffffff;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -150px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  650px;
+    height: 800px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .landing2{
+    font-size: 48px;
+  }
+  .landing2 div:nth-child(2){   
+    font-size: 38px;
+  }
+  .logoLanding img{
+    width: 160px;
+    height: 160px;
+  }
+  .present{
+    width: 87%;
+    margin-top: 40px;
+  }
+  .present div:nth-child(1){
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  .present img{
+    width: 20px;
+    height: 20px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 15px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 38px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 28px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 600px;
+    height: 480px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 18px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 400px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 15px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 18px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 38px;
+  }
+  .listTimelines {
+    padding: 20px;
+    width: 90%;
+  }
+  .listTime {
+    width: 90%;
+  }
+  .timeline {
+    width: 70px;
+    height: 120px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 16px;
+  }
+  .line {
+    width: 85%;
+  }
+  .circle {
+    width: 14px;
+    height: 14px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:600px;
+    height: 350px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 320px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 150px;
+    height: 200px;
+  }
+  .content1 {
+    font-size: 32px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    width: 100%;
+    font-size: 20px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 38px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .ask {
+    font-size: 16px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 16.5vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 36%;
+  }
+  .director img {
+    width: 45px;
+    height: 45px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 17px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 3px solid rgb(255, 255, 255);
+    font-size: 17px;
+  }
+  .sosmed {
+    font-size: 30px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 17px;
+  }
+  .credit {
+    line-height: 12px;
+    font-size: 14px;
+  }
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 130%;
+  }
+  .turtle img{
+    width: 250px;
+    height: 250px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 250%;
+  }
+  .ubur img{
+    width: 350px;
+    height: 400px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 350%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 400px;
+    height: 400px;
+  }
+
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+  .subHeader {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .home {
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  .home img {
+    width: 50px;
+    height: 50px;
+  }
+  .navigation {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+  }
+  .humberger{
+    display: none;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 0;
+  }
+  .landing .bubble{
+    left: -150px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  700px;
+    height: 850px;
+  }
+  .subLanding{
+    flex-direction:column-reverse ;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .landing2{
+    font-size: 52px;
+  }
+  .landing2 div:nth-child(2){   
+    font-size: 48px;
+    line-height: 50px;
+  }
+  .logoLanding img{
+    width: 170px;
+    height: 170px;
+  }
+  .present{
+    width: 86%;
+    margin-top: 30px;
+    gap: 5px;
+  }
+  .present div:nth-child(1){
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  .present img{
+    width: 20px;
+    height: 20px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 15px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 42px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 32px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 700px;
+    height: 500px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 18px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 400px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 20px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 42px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    width: 100px;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
+  .timeline div {
+    font-size: 16px;
+  }
+  .timeline div:nth-child(1){
+    display: flex;
+    justify-content: center;
+    width: 50%;
+  }
+  .line {
+    width: 85%;
+  }
+  .circle {
+    width: 15px;
+    height: 15px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:630px;
+    height: 330px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 380px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 180px;
+    height: 180px;
+  }
+  .content1 {
+    font-size: 32px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    font-size: 18px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 42px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .ask {
+    font-size: 18px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 18vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 36%;
+  }
+  .director img {
+    width: 55px;
+    height: 55px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 20px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 3.5px solid rgb(255, 255, 255);
+    font-size: 20px;
+  }
+  .sosmed {
+    font-size: 35px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 20px;
+  }
+  .credit {
+    line-height: 16px;
+    font-size: 16px;
+  }
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 130%;
+  }
+  .turtle img{
+    width: 300px;
+    height: 300px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 250%;
+  }
+  .ubur img{
+    width: 350px;
+    height: 450px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 340%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 500px;
+    height: 500px;
+  }
+
+}
+@media screen and (min-width:1024px) and (max-width:1144px){
+  .navigation{
+    display: flex;
+    width: 40%;
+  }
+  .humberger{
+    display: none;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 80px 0 0 0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .landing .bubble{
+    left: -200px;
+    top: -30px;
+  }
+  .landing .bubble img{
+    width:  900px;
+    height: 800px;
+  }
+  .subLanding{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 85%;
+    margin-left: 40px;
+    margin-top: 80px;
+  }
+  .landing2{
+    width: 80%;
+    gap: 8px;
+    font-size: 62px;
+
+  }
+  .landing2 div:nth-child(2){   
+    font-size: 52px;
+    line-height: 60px;
+  }
+  .logoLanding img{
+    width: 200px;
+    height: 200px;
+  }
+  .present{
+    width: 86%;
+    margin-top: 100px;
+    gap: 5px;
+  }
+  .present div:nth-child(1){
+    font-size: 22px;
+    letter-spacing: 1px;
+  }
+  .present img{
+    width: 25px;
+    height: 25px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 22px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 52px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 38px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 0;
+    height:300px;
+  }
+  .swiper{
+    width: 900px;
+    height: 700px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 22px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 500px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 22px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 56px;
+  }
+  .listTimelines {
+    padding: 20px;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    width: 130px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 16px;
+  }
+  .line {
+    width: 80%;
+  }
+  .circle {
+    width: 15px;
+    height: 15px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:820px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 520px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 220px;
+    height: 200px;
+  }
+  .content1 {
+    font-size: 34px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    font-size: 20px;
+  }
+  .appAsking {
+    height: 70vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 42px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  }
+  .ask {
+    font-size: 18px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 18vh;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 8px;
+  }
+  .subFooter .event {
+    width: 90%;
+  }
+  .director {
+    width: 32%;
+  }
+  .director img {
+    width: 60px;
+    height: 60px;
+  }
+  .director div:nth-child(2) {
+    text-align: center;
+    font-size: 24px;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 4px solid rgb(255, 255, 255);
+    font-size: 24px;
+  }
+  .sosmed {
+    font-size: 45px;
+    gap: 10px;
+  }
+  .sosmed a {
+    font-size: 24px;
+  }
+  .credit {
+    line-height: 10px;
+    font-size: 18px;
+  }
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -888;
+    left: 0;
+    top: 130%;
+  }
+  .turtle img{
+    width: 300px;
+    height: 300px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 260%;
+  }
+  .ubur img{
+    width: 450px;
+    height: 550px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 350%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 600px;
+    height: 600px;
+  }
+
+}
+@media screen and (min-width:1144px) and (max-width:1280px){
+  .navigation{
+    display: flex;
+  }
+  .humberger{
+    display: none;
+  }
+  .appLanding{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .subApp{
+    width: 100%;
+    margin: 40px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 40px 0 0 0;
+  }
+  .landing .bubble{
+    position: absolute;
+    z-index: -888;
+    left: -150px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  900px;
+    height: 800px;
+  }
+  .subLanding{
+    width: 70%;
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+  .landing2{
+    width: 66%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 72px;
+    color: #ffffff;
+  }
+  .landing2 div:nth-child(2){
+    line-height: 60px;
+    font-size: 64px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .logoLanding{
+    background-color: #ffffff11;
+    padding: 20px;
+    border-radius: 50%;
+  }
+  .logoLanding img{
+    width: 220px;
+    height: 220px;
+  }
+  .present{
+    width: 87%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40px;
+    align-items: center;
+  }
+  .present div:nth-child(1){
+    font-size: 22px;
+    color: #ffffff;
+    font-family: 'fredoka one';
+    font-weight: 500;
+    letter-spacing: 2px;
+  }
+  .present img{
+    width: 30px;
+    height: 30px;
+  }
+  .timeLanding{
+    width: 90%;
+    display: flex;
+    justify-content:flex-end;
+    font-size: 20px;
+    color: #ffffff;
+  }  
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 20px;
+    flex-direction:row;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 48px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 32px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 900px;
+    height:300px;
+  }
+  .swiper{
+    width: 700px;
+    height: 500px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 22px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 420px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 24px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 10px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 56px;
+  }
+  .listTimelines {
+    padding: 40px;
+  }
+  .listTime {
+    width: 80%;
+  }
+  .timeline {
+    width: 160px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 16px;
+  }
+  .line {
+    width: 80%;
+  }
+  .circle {
+    width: 15px;
+    height: 15px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    width:900px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 520px;
+    font-size: 0;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 220px;
+    height: 200px;
+  }
+  .content1 {
+    font-size: 34px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    font-size: 20px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 48px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
+  }
+  .ask {
+    font-size: 20px;
+  }
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    left: 0;
+    top: 150%;
+  }
+  .turtle img{
+    width: 400px;
+    height: 400px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 190%;
+  }
+  .ubur img{
+    width: 500px;
+    height: 600px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 280%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 600px;
+    height: 600px;
+  }
+  .appFooter {
+    width: 100%;
+    height: 18vh;
+    padding: 10px 0 10px 0;
+    background-color: rgba(255, 253, 255, 0.12);  
+  }
+  .appFooter .subFooter {
+    width: 100%;
+    gap: 0px;
+
+  }
+  .subFooter .event {
+    width: 80%;
+    color: #ffffff;
+  }
+  .director {
+    width: 26%;
+  }
+  .director img {
+    width: 50px;
+    height: 50px;
+  }
+  .director div:nth-child(2) {
+    width: 200px;
+    font-size: 22px;
+    font-weight: 500;
+  
+  }
+  .director div:nth-child(3) {
+    border-left: 4px solid rgb(255, 255, 255);
+    height: 30px;
+    font-weight: 500;
+    font-size: 22px;
+    padding-left: 10px;
+  }
+  .sosmed {
+    color: #ffffff;
+    font-size: 35px;
+    gap: 10px;
+  }
+  .sosmed a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .credit {
+    gap: 4px;
+    color: #ffffff;
+    font-size: 17px;
+  }
+
+}
+@media screen and (min-width:1536px){
+  .moveScreen {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .home {
+    font-size: 42px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    padding: 10px 0 10px 0;
+  }
+  .home img {
+    width: 80px;
+    height: 80px;
+  }
+  .navigation {
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    font-size: 32px;
+  }
+  .humberger{
+    display: none;
+  }
+  .appLanding{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .subApp{
+    width: 100%;
+    margin: 60px 0 0 0;
+  }
+  .landing{
+    width: 100%;
+    margin: 80px 0 0 0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .landing .bubble{
+    position: absolute;
+    left: -200px;
+    top: -50px;
+  }
+  .landing .bubble img{
+    width:  1200px;
+    height: 130vh;
+  }
+  .subLanding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;  
+    width: 85%;
+    margin-left: 50px;
+    margin-top: 150px;
+  }
+  .landing2{
+    width: 65%;
+    gap: 8px;
+    font-size: 82px;
+  }
+  .landing2 div:nth-child(2){   
+    font-size: 72px;
+    line-height: 80px;
+  }
+  .logoLanding img{
+    width: 280px;
+    height: 280px;
+  }
+  .present{
+    width: 86%;
+    margin-top:200px;
+    gap: 5px;
+  }
+  .present div:nth-child(1){
+    font-size: 24px;
+    letter-spacing: 1px;
+  }
+  .present img{
+    width: 40px;
+    height: 40px;
+  }
+  .timeLanding{
+    width: 90%;
+    font-size: 24px;
+  }
+  .subAppJourneyIntro{
+    padding: 0;
+    width: 95%;
+    gap: 20px;
+    flex-direction:row;
+  }
+  .subJourney {
+    width: 100%;
+    height: 300px;
+  }
+  .subJourney div:nth-child(1) {
+    font-size: 64px;
+    letter-spacing: 1px;
+    font-weight: 550;
+  }
+  .subJourney div:nth-child(2),
+  .subJourney div:nth-child(3) {
+    font-size: 42px;
+    font-weight: 500;
+  }
+  .listJourney {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .listSubJourney {
+    width: 100%;
+  }
+  .myswiper{
+    width: 900px;
+    height:300px;
+  }
+  .swiper{
+    width: 800px;
+    height: 700px;
+  }
+  .journey{
+    width: 100%;
+  }
+  .journey div:nth-child(2) {
+    font-size: 30px;
+  }
+  .journey:hover div:nth-child(2) {
+    transform: none;
+  }
+  .journey img {
+    width: 100%;
+    height: 520px;
+  }
+  .subSeeMore {
+    width: 80%;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  .subSeeMore:hover .seeMore {
+    background-color: none
+  }
+  .seeMore {
+    font-size: 30px;
+  }
+  .seeMore div{
+    width: 100%;
+  }
+  .subSeeMore:hover .subSeeMore {
+    transform: scale(1.1);
+  }
+  .appTimeline {
+    gap: 40px;
+  }
+  .appTimeline .tittleTimeline {
+    font-size: 64px;
+  }
+  .listTimelines {
+    padding: 20px;
+    width: 90%;
+    height: 60vh;
+  }
+  .listTime {
+    width: 90%;
+  }
+  .timeline {
+    width: 200px;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .timeline div {
+    font-size: 22px;
+  }
+  .line {
+    width: 80%;
+  }
+  .circle {
+    width: 20px;
+    height: 20px;
+  }
+  .contentTimeline {  
+    padding-top: 30px;
+  }
+  .explaineTimeline {
+    height: 340px;
+    width:1200px;
+  }
+  .explaineTimeline.active {
+    display: flex;
+  }
+  .contentExpTimeline {
+    width: 820px;
+    word-spacing:1px;
+  }
+  .icon {
+    width: 220px;
+    height: 200px;
+  }
+  .content1 {
+    font-size: 58px;
+    font-family: "fredoka one";
+  }
+  .content2{
+    font-size: 35px;
+  }
+  .appAsking {
+    height: 80vh;
+  }
+  .appAsking .tittleAsk {
+    font-size: 64px;
+  }
+  .listAsk {
+    grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
+    grid-gap: 1.5rem;
+  }
+  .ask {
+    font-size: 32px;
+  }
+  .turtle{
+    position: absolute;
+    z-index: -888;
+    width: 0;
+    height: 0;
+    z-index: -988;
+    left: 0;
+    top: 155%;
+  }
+  .turtle img{
+    width: 500px;
+    height: 500px;
+  }
+  .ubur{
+    position: absolute;
+    z-index: -888;
+    right: 0;
+    top: 190%;
+  }
+  .ubur img{
+    width: 600px;
+    height: 700px;
+  }
+  .ikans{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: -1;
+    top: 280%;
+  }
+  .ikans div:nth-child(2){
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .ikan1 img,.ikan2 img{
+    width: 800px;
+    height: 800px;
+  }
+  .appFooter{
+    height: 18vh;
+  }
+  .appFooter .subFooter {
+    gap: 0;
+  }
+  .director {
+    width: 31%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .director img {
+    width: 80px;
+    height:80px;
+  }
+  .director div:nth-child(2) {
+    font-size: 32px;
+  }
+  .director div:nth-child(3) {
+    height: 40px;
+    font-size: 32px;
+    border-left: 4px solid #ffffff;
+    padding-left: 12px;
+  }
+  .sosmed {
+    font-size: 50px;
+  }
+  .sosmed a {
+    font-size: 32px;
+  }
+  .credit {
+    font-size: 22px;
+  }
+
+}
+
+/*@media screen and (min-width:586px) and (max-width:640px){}
+@media screen and (min-width:640px) and (max-width:768px){}
+@media screen and (min-width:768px) and (max-width:1024px){}
+@media screen and (min-width:1024px) and (max-width:1144px){}
+@media screen and (min-width:1144px) and (max-width:1280px){}
+@media screen and (min-width:1280px) and (max-width:1536px){}
+@media screen and (min-width:1536px){} */
+

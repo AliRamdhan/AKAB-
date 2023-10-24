@@ -1,0 +1,188 @@
+[
+ {
+  "NAMA": "Aina Salsabila",
+  "ANGKATAN": "1",
+  "JURUSAN": "Adminitrasi Pajak",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Muhammad Misseac A",
+  "ANGKATAN": "1",
+  "JURUSAN": "Hukum Pidana Islam",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Syarif Hidayatullah Jakarta"
+ },
+ {
+  "NAMA": "Shifa Nur Azizah",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu  Hukum ",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Syarif Hidayatullah Jakarta"
+ },
+ {
+  "NAMA": "Annisa Ariestawati",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu  Hukum Internasional",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman "
+ },
+ {
+  "NAMA": "Burhan Adi Nur Hakim ",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu Hubungan Internasional",
+  "PERGURUANTINGGI": "Universitas Airlangga"
+ },
+ {
+  "NAMA": "Muhammad Hafizh",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu Hukum",
+  "PERGURUANTINGGI": "Univeritas Negeri Singaperbangsa"
+ },
+ {
+  "NAMA": "Nuha Khairunissa",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu Komunikasi",
+  "PERGURUANTINGGI": "Universitas Gajah Mada"
+ },
+ {
+  "NAMA": "Lina Maulani",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu Perpustakaan",
+  "PERGURUANTINGGI": "Universitas Sebelas Maret"
+ },
+ {
+  "NAMA": "Ulya Kamila ",
+  "ANGKATAN": "1",
+  "JURUSAN": "Ilmu Perpustakaan",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta"
+ },
+ {
+  "NAMA": "Dimas Syabani Rahman",
+  "ANGKATAN": "1",
+  "JURUSAN": "Sains Komunikasi dan Pengembangan Masyarakat",
+  "PERGURUANTINGGI": "Institut Pertanian Bogor"
+ },
+ {
+  "NAMA": "Muhammad Widadul Umam",
+  "ANGKATAN": "2",
+  "JURUSAN": "Hukum",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Walisongo Semarang"
+ },
+ {
+  "NAMA": "Zaki Nuril Muntaha",
+  "ANGKATAN": "2",
+  "JURUSAN": "Hukum",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Walisongo Semarang"
+ },
+ {
+  "NAMA": "Wildan Fakhrur Rozy",
+  "ANGKATAN": "2",
+  "JURUSAN": "Hukum Keluarga Islam",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta"
+ },
+ {
+  "NAMA": "Muhammad Nastain",
+  "ANGKATAN": "2",
+  "JURUSAN": "Ilmu Pemerintahan",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Zahra Arifia Shaumi",
+  "ANGKATAN": "2",
+  "JURUSAN": "Ilmu Perpustakaan",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta"
+ },
+ {
+  "NAMA": "Nuvi Nur Isnaini",
+  "ANGKATAN": "3",
+  "JURUSAN": "Administrasi Bisnis, Kesekretariatan",
+  "PERGURUANTINGGI": "Universitas Brawijaya"
+ },
+ {
+  "NAMA": "Sulaiman Abdillah",
+  "ANGKATAN": "3",
+  "JURUSAN": "Administrasi Publik",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman"
+ },
+ {
+  "NAMA": "Zidan Husnullabib 'Izzy",
+  "ANGKATAN": "3",
+  "JURUSAN": "Hubungan Internasional",
+  "PERGURUANTINGGI": "Universitas Jember"
+ },
+ {
+  "NAMA": "Guruh Aji Pangestu ",
+  "ANGKATAN": "3",
+  "JURUSAN": "Hukum",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Djazuli Abdul Jabbar",
+  "ANGKATAN": "3",
+  "JURUSAN": "Hukum",
+  "PERGURUANTINGGI": "Universitas Sultan Agung "
+ },
+ {
+  "NAMA": "Tsabita Maysa Tsurayya",
+  "ANGKATAN": "3",
+  "JURUSAN": "Hukum Keluarga Islam",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Walisongo Semarang"
+ },
+ {
+  "NAMA": "Alifiya Madinatul Munawaroh",
+  "ANGKATAN": "3",
+  "JURUSAN": "Hukum Keluarga Islam",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Maulana Malik Ibrahim Malang"
+ },
+ {
+  "NAMA": "Millah Hanifah",
+  "ANGKATAN": "3",
+  "JURUSAN": "Komunikasi",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Wimar Abdurrachman",
+  "ANGKATAN": "3",
+  "JURUSAN": "Ilmu Perpustakaan ",
+  "PERGURUANTINGGI": "Universitas Indonesia"
+ },
+ {
+  "NAMA": "Danang Akmal Habibi",
+  "ANGKATAN": "4",
+  "JURUSAN": "Hubungan Internasional",
+  "PERGURUANTINGGI": "Universitas Gadjah Mada"
+ },
+ {
+  "NAMA": "Nisa Awalia Nurul Ilmi",
+  "ANGKATAN": "4",
+  "JURUSAN": "Hubungan Internasional",
+  "PERGURUANTINGGI": "Universitas Islam Negeri Syarif Hidayatullah Jakarta"
+ },
+ {
+  "NAMA": "Ahmad Miftahussurur",
+  "ANGKATAN": "4",
+  "JURUSAN": "Ilmu Pemerintahan",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Luthfan Alghifari Rafi",
+  "ANGKATAN": "5",
+  "JURUSAN": "Hukum",
+  "PERGURUANTINGGI": "Universitas Diponegoro"
+ },
+ {
+  "NAMA": "Farrel Maja Mahardika",
+  "ANGKATAN": "5",
+  "JURUSAN": "Hubungan Internasional",
+  "PERGURUANTINGGI": "Universitas Indonesia "
+ },
+ {
+  "NAMA": "Sal Sabila Rizka Tama",
+  "ANGKATAN": "5",
+  "JURUSAN": "Komunikasi",
+  "PERGURUANTINGGI": "Universitas Jenderal Soedirman "
+ },
+ {
+  "NAMA": "Putri Kaila Syauqiyah ",
+  "ANGKATAN": "5",
+  "JURUSAN": "Komunikasi",
+  "PERGURUANTINGGI": "Universitas Pertamina"
+ }
+]
